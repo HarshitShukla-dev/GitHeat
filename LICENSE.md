@@ -21,6 +21,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required. A sample format for the acknowledgment is:
 
 ```
-This product uses software developed by Harshit Shukla (https://github.com/Hershit-shukla).<br>
+This product uses software developed by Harshit Shukla (https://github.com/Hershit-shukla).
 @hershit-shukla
 ```
