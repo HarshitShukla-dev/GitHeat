@@ -36,8 +36,7 @@ GitHeat is a tool to visualize your Git contributions on a heatmap. It generates
 
 ### Installation
 1. Clone the repository:
-git clone 
-```https://github.com/Hershit-shukla/GitHeat```
+```git clone https://github.com/Hershit-shukla/GitHeat.git```
 2. Navigate to the project directory:
 ```cd GitHeat```
 
