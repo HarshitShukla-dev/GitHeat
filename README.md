@@ -52,6 +52,8 @@ bash githeat.sh
 ```
 2. Enter your GitHub username and repository name when prompted.
 3. Enter the number of days to go back for generating the heatmap.
+4. Enter the name of the subdirectory to create the repository in.
+5. Wait till "Done" message.
 
 ### Step 2: Heatmap
 Once GitHeat has completed, a heatmap will be generated and opened in your default browser.
