@@ -39,8 +39,6 @@ GitHeat is a tool to visualize your Git contributions on a heatmap. It generates
 git clone https://github.com/hershit-shukla/GitHeat.git
 2. Navigate to the project directory:
 cd GitHeat
-3. Run the setup script to configure GitHeat:
-bash setup.sh
 
 ## Usage
 ### Step 1: Enter Details
@@ -48,7 +46,6 @@ bash setup.sh
 bash githeat.sh
 2. Enter your GitHub username and repository name when prompted.
 3. Enter the number of days to go back for generating the heatmap.
-4. Enter your commit message.
 
 ### Step 2: Heatmap
 Once GitHeat has completed, a heatmap will be generated and opened in your default browser.
