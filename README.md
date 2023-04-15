@@ -47,8 +47,18 @@ cd GitHeat
 ## Usage
 ### Step 1: Enter Details
 1. Run GitHeat from the command line:
+
+Windows
 ```
 bash githeat.sh
+```
+macOS
+```
+bash githeatmacOS.sh
+```
+Linux
+``` 
+bash githeatLinux.sh
 ```
 2. Enter your GitHub username and repository name when prompted.
 3. Enter the number of days to go back for generating the heatmap.
