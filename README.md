@@ -58,7 +58,7 @@ bash githeat.sh
 ### Step 2: Heatmap
 Once GitHeat has completed, a heatmap will be generated and opened in your default browser.
 
-![heatmap](./img/heatmap.png)
+![heatmap](./img/HeatMap.PNG)
 
 ## Contributing
 Contributions are welcome and appreciated! Please read the [contribution guidelines](./CONTRIBUTING.md) for more information.
