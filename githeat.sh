@@ -1,5 +1,17 @@
 #!/bin/bash
 
+# Clear terminal and show GitHeat ASCII art
+clear
+echo "
+   _____ _ _   _    _            _   
+  / ____(_) | | |  | |          | |  
+ | |  __ _| |_| |__| | ___  __ _| |_ 
+ | | |_ | | __|  __  |/ _ \/ _` | __|
+ | |__| | | |_| |  | |  __/ (_| | |_ 
+  \_____|_|\__|_|  |_|\___|\__,_|\__|
+                      Version 1.0.0
+"
+
 # Text styles
 BOLD=$(tput bold)
 GREEN=$(tput setaf 2)
