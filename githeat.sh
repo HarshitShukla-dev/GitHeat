@@ -10,6 +10,7 @@ echo "
  | |__| | | |_| |  | |  __/ (_| | |_ 
   \_____|_|\__|_|  |_|\___|\__,_|\__|
                       Version 1.0.0
+                      Harshit Shukla
 "
 
 # Text styles
