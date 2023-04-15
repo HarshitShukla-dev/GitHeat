@@ -14,7 +14,7 @@ echo "
 
 # Text styles
 BOLD=$(tput bold)
-GREEN=$(tput setaf 2)
+GREEN=$(tput setaf 6)
 RED=$(tput setaf 1)
 RESET=$(tput sgr0)
 
